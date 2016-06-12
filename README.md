@@ -1,2 +1,0 @@
-# XP_RprogrammingAssigment2
-R_assignment2
